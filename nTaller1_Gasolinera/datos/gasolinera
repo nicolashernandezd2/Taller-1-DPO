@@ -1,0 +1,13 @@
+tipo:ACPM:10000:50.0
+tipo:premium:17000:27.0
+tipo:extra:15000:50.0
+tipo:corriente:13000:99.99969230769231
+surtidor:Santiago:ACPM:0.0:premium:0.0:extra:0.0:corriente:0.0
+surtidor:Martin:ACPM:0.0:premium:0.0:extra:0.0:corriente:3.076923076923077E-4
+surtidor:Juana:ACPM:0.0:premium:3.0:extra:0.0:corriente:0.0
+surtidor:Santiago:ACPM:0.0:premium:0.0:extra:0.0:corriente:0.0
+empleado:Juana:51000
+empleado:Santiago:0
+empleado:Gabriela:0
+empleado:Martin:4
+empleado:Juan:0
